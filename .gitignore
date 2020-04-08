@@ -102,3 +102,13 @@ dist
 
 # TernJS port file
 .tern-port
+
+
+## Custom directories
+kafka-deploy/zk-single-kafka-single-cloud
+kafka-deploy/zk-single-kafka-single-local
+
+cloud/node_modules/
+local/node_modules/
+
+
